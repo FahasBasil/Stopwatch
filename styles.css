@@ -1,0 +1,16 @@
+body
+
+{ 
+   background:url("images/grad.jpg");
+    background-size:cover;
+    
+    width: 100%;
+    font-size: 100px;
+    color: lightcyan;
+    text-align: center;
+    margin: 50px auto;
+}
+
+.buttons{
+    text-align: center;
+}
